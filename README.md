@@ -8,10 +8,6 @@ or its source history.
 
 ## Install
 
-The binary-only Homebrew cutover is in progress. Until its tap change is merged,
-Homebrew may still use the previous source-building formula. Named release
-archives below are the direct binary installation path.
-
 ```sh
 brew install 72olabs/tap/holler
 ```
