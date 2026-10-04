@@ -50,6 +50,10 @@ credentials or private conversation data.
 Each release includes its applicable `LICENSE`. Moving binary hosting does not
 change the license of an existing release: 0.8.0 remains Apache-2.0.
 
+The first-party files and documentation in this distribution repository are
+proprietary under [LICENSE](LICENSE). That repository license does not replace
+the license packaged with a downloaded release or change prior license grants.
+
 GitHub's automatically generated "Source code" ZIP/tar downloads contain only
 this distribution repository, not the Holler product. Use the named
 `holler-VERSION-PLATFORM.tar.gz` assets to install Holler.
