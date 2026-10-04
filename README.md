@@ -47,8 +47,13 @@ For suspected vulnerabilities, use [private security reporting](https://github.c
 not a public issue. Include affected versions and a minimal reproduction without
 credentials or private conversation data.
 
-Each release includes its applicable `LICENSE`. Moving binary hosting does not
-change the license of an existing release: 0.8.0 remains Apache-2.0.
+Each release includes its applicable `LICENSE`. Holler 0.8.1 and later are
+distributed under the Holler Proprietary Software License. The 0.8.0 downloads
+were retired on 2026-10-04; copies already downloaded keep their Apache-2.0
+license, which is not changed retroactively.
+
+Installation, usage, and compatibility guides:
+[github.com/72olabs/holler-docs](https://github.com/72olabs/holler-docs).
 
 The first-party files and documentation in this distribution repository are
 proprietary under [LICENSE](LICENSE). That repository license does not replace
