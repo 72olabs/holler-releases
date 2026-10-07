@@ -41,7 +41,7 @@ permissions; installing a binary is not proof that live messaging is ready.
 
 Report reproducible problems in this repository's Issues. Do not include tokens,
 private conversation contents, or credentials. Product information:
-[holler.72olabs.ai](https://holler.72olabs.ai).
+[getholler.ai](https://getholler.ai).
 
 For suspected vulnerabilities, use [private security reporting](https://github.com/72olabs/holler-releases/security/advisories/new),
 not a public issue. Include affected versions and a minimal reproduction without
@@ -49,7 +49,7 @@ credentials or private conversation data.
 
 Each release includes its applicable `LICENSE`. Holler 0.8.1 and later are
 distributed under the Holler Proprietary Software License. The 0.8.0 downloads
-were retired on 2026-10-04; copies already downloaded keep their Apache-2.0
+were retired on 2026-10-04; copies already downloaded keep their original
 license, which is not changed retroactively.
 
 Installation, usage, and compatibility guides:
