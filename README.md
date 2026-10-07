@@ -41,7 +41,7 @@ permissions; installing a binary is not proof that live messaging is ready.
 
 Report reproducible problems in this repository's Issues. Do not include tokens,
 private conversation contents, or credentials. Product information:
-[holler.72olabs.ai](https://holler.72olabs.ai).
+[getholler.ai](https://getholler.ai).
 
 For suspected vulnerabilities, use [private security reporting](https://github.com/72olabs/holler-releases/security/advisories/new),
 not a public issue. Include affected versions and a minimal reproduction without
