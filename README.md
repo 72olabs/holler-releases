@@ -37,6 +37,20 @@ holler setup codex
 Configure only the harnesses you use. Setup may ask you to review connector
 permissions; installing a binary is not proof that live messaging is ready.
 
+## Upgrading to 0.8.2
+
+Read the [0.8.2 release notes](https://github.com/72olabs/holler-releases/releases/tag/v0.8.2)
+before upgrading, including the known recovered-Codex delivery limitation.
+The database upgrade creates a verified private backup. An older binary cannot
+use the upgraded database; rollback requires restoring the matching backup and
+loses changes made since that backup.
+
+Preserve any custom daemon service arguments before running setup, restore them
+afterward, and restart the service. Update the matching connectors and start
+fresh agent sessions; replacing the binaries does not update an already-running
+connector. See the [installation guide](https://github.com/72olabs/holler-docs/blob/main/INSTALL.md)
+for the full procedure.
+
 ## Support and licensing
 
 Report reproducible problems in this repository's Issues. Do not include tokens,
